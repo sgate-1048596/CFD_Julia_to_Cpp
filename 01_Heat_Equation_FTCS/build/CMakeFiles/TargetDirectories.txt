@@ -1,0 +1,6 @@
+/home/sltd/桌面/CFD_julia_to_cpp/01_Heat_Equation_FTCS/build/CMakeFiles/main_program.dir
+/home/sltd/桌面/CFD_julia_to_cpp/01_Heat_Equation_FTCS/build/CMakeFiles/edit_cache.dir
+/home/sltd/桌面/CFD_julia_to_cpp/01_Heat_Equation_FTCS/build/CMakeFiles/rebuild_cache.dir
+/home/sltd/桌面/CFD_julia_to_cpp/01_Heat_Equation_FTCS/build/calculate/CMakeFiles/calculate.dir
+/home/sltd/桌面/CFD_julia_to_cpp/01_Heat_Equation_FTCS/build/calculate/CMakeFiles/edit_cache.dir
+/home/sltd/桌面/CFD_julia_to_cpp/01_Heat_Equation_FTCS/build/calculate/CMakeFiles/rebuild_cache.dir
